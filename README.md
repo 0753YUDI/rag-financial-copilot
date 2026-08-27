@@ -41,10 +41,10 @@
 ### 环境依赖
 详见 `requirements.txt`
 
-### demo演示
+### Demo演示
 <img width="1008" height="505" alt="截屏2026-08-27 14 08 55" src="https://github.com/user-attachments/assets/08c80fa5-7cb8-46de-8497-672a35e5530c" />
 <img width="1431" height="738" alt="截屏2026-08-27 14 11 16" src="https://github.com/user-attachments/assets/8abc75af-f41a-488b-afae-f4d73f46b7d0" />
-<img width="663" height="690" alt="截屏2026-08-27 14 29 31" src="https://github.com/user-attachments/assets/df61eaa0-a2b4-4b8b-a836-e0f1d770ce62" />
+
 
 ### chunk匹配策略：关键词检索+向量匹配度检索双策略 再进行Rerank
 <img width="1048" height="662" alt="截屏2026-08-27 14 40 05" src="https://github.com/user-attachments/assets/28865054-ae51-4104-9951-df060c048b86" />
