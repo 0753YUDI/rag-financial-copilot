@@ -24,3 +24,19 @@
 | 跨章节多跳推理合格率 | 83.3% |
 
 （基于测试研报集 + 人工标注验证）
+## 技术栈
+
+### 数据存储
+- **数据库**：PostgreSQL（Docker容器部署）+ pgvector 扩展，用于向量存储与检索
+
+### 模型服务
+- **Embedding（向量化）**：智谱AI Embedding API
+  - `https://open.bigmodel.cn/api/paas/v4`
+- **LLM（财务提取 / 风险识别 / 总结生成 Agent）**：DeepSeek API
+
+### 核心框架
+- LangChain（RAG流水线编排）
+- PyMuPDF / pdfplumber（PDF财报解析，具体看你 `pdf_parser.py` 用的库）
+
+### 环境依赖
+详见 `requirements.txt`
