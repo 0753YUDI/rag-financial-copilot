@@ -1,0 +1,7 @@
+PyMuPDF
+psycopg2-binary
+pgvector
+openai
+python-dotenv
+langchain-text-splitters
+streamlit
