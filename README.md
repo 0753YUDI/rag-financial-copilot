@@ -47,7 +47,8 @@
 
 
 ### chunk匹配策略：关键词检索+向量匹配度检索双策略 再进行Rerank
-<img width="1048" height="662" alt="截屏2026-08-27 14 40 05" src="https://github.com/user-attachments/assets/28865054-ae51-4104-9951-df060c048b86" />
+<img width="663" height="690" alt="截屏2026-08-27 14 29 31" src="https://github.com/user-attachments/assets/f6ff7723-ed08-453a-bc70-c2667c3a0e8d" />
+
 
 ### 深度分析与研报生成展示
 <img width="1083" height="691" alt="截屏2026-08-27 14 30 49" src="https://github.com/user-attachments/assets/e11bde70-48b0-4e00-bcaa-134c27ce9e28" />
