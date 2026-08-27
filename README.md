@@ -40,13 +40,23 @@
 
 ### 环境依赖
 详见 `requirements.txt`
+
+### demo演示
 <img width="1008" height="505" alt="截屏2026-08-27 14 08 55" src="https://github.com/user-attachments/assets/08c80fa5-7cb8-46de-8497-672a35e5530c" />
 <img width="1431" height="738" alt="截屏2026-08-27 14 11 16" src="https://github.com/user-attachments/assets/8abc75af-f41a-488b-afae-f4d73f46b7d0" />
 <img width="663" height="690" alt="截屏2026-08-27 14 29 31" src="https://github.com/user-attachments/assets/df61eaa0-a2b4-4b8b-a836-e0f1d770ce62" />
+
+### chunk匹配策略：关键词检索+向量匹配度检索双策略 再进行Rerank
 <img width="1048" height="662" alt="截屏2026-08-27 14 40 05" src="https://github.com/user-attachments/assets/28865054-ae51-4104-9951-df060c048b86" />
-<img width="1048" height="707" alt="截屏2026-08-27 14 39 56" src="https://github.com/user-attachments/assets/657593d1-f2b3-4693-add5-e5891a65104f" />
-<img width="1083" height="647" alt="截屏2026-08-27 14 31 29" src="https://github.com/user-attachments/assets/e07fa4ec-9291-41d4-9304-049a2bba89f6" />
-<img width="1083" height="647" alt="截屏2026-08-27 14 31 17" src="https://github.com/user-attachments/assets/4b526bfb-26ec-4a41-823d-5398170f5ef0" />
-<img width="1083" height="711" alt="截屏2026-08-27 14 31 08" src="https://github.com/user-attachments/assets/53a18e34-be22-44d0-a98b-59c1f227dd4e" />
-<img width="1083" height="691" alt="截屏2026-08-27 14 30 49" src="https://github.com/user-attachments/assets/e767e2fa-c985-418b-b45f-c989c711c58c" />
+
+### 深度分析与研报生成展示
+<img width="1083" height="691" alt="截屏2026-08-27 14 30 49" src="https://github.com/user-attachments/assets/e11bde70-48b0-4e00-bcaa-134c27ce9e28" />
+
+<img width="1083" height="711" alt="截屏2026-08-27 14 31 08" src="https://github.com/user-attachments/assets/3cfd1edf-a90a-4ea0-a5c1-14cd310c415a" />
+
+<img width="1083" height="647" alt="截屏2026-08-27 14 31 17" src="https://github.com/user-attachments/assets/122080bb-d2aa-42d2-b44a-a561031ee9c7" />
+
+<img width="1083" height="647" alt="截屏2026-08-27 14 31 29" src="https://github.com/user-attachments/assets/c3079941-8ada-4e65-a005-33619e043f10" />
+
+<img width="1048" height="707" alt="截屏2026-08-27 14 39 56" src="https://github.com/user-attachments/assets/27876b65-6cf6-4699-9e59-27e7dfbf633a" />
 
