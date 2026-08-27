@@ -36,7 +36,7 @@
 
 ### 核心框架
 - LangChain（RAG流水线编排）
-- PyMuPDF / pdfplumber（PDF财报解析，具体看你 `pdf_parser.py` 用的库）
+- PyMuPDF / pdfplumber
 
 ### 环境依赖
 详见 `requirements.txt`
